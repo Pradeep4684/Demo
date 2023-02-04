@@ -13,8 +13,6 @@ public class Test {
 		
 		System.out.println(list);
 		
-		for(Integer i :list) {
-			System.out.println(i);
-		}
+		
 	}
 }
